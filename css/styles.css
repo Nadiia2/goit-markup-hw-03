@@ -279,7 +279,6 @@ p {
   letter-spacing: 0.03em;
   color: #4d5ae5;
   margin-right: 76px;
-  display: inline-block;
 }
 .nav .logo-studio {
   color: #2e2f42;
@@ -288,15 +287,21 @@ p {
 .footer .logo-studio {
   color: #f4f4fd;
 }
-.footer a {
-  display: inline-block;
-}
+
 .footer {
   color: #f4f4fd;
   background-color: #2e2f42;
   padding: 100px 0;
 }
-.footer .logo {
+.footer-logo {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+  margin-right: 76px;
   margin-bottom: 16px;
   display: inline-block;
 }
