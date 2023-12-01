@@ -31,9 +31,7 @@ img {
 p {
   margin: 0;
 }
-a {
-  display: inline-block;
-}
+
 .container {
   max-width: 1158px;
   margin: 0 auto;
@@ -298,7 +296,6 @@ a {
 }
 .footer .logo {
   margin-bottom: 16px;
-  display: inline-block;
 }
 .footer .container {
   display: flex;
