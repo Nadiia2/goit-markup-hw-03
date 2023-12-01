@@ -305,11 +305,6 @@ p {
   margin-right: 76px;
   margin-bottom: 16px;
 }
-.footer .container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
 .footer-text {
   max-width: 264px;
 }
