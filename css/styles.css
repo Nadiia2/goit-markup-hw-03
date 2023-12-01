@@ -296,6 +296,7 @@ p {
 }
 .footer .logo {
   margin-bottom: 16px;
+  display: inline-block;
 }
 .footer .container {
   display: flex;
