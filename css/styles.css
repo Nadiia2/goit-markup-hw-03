@@ -284,11 +284,13 @@ p {
 .nav .logo-studio {
   color: #2e2f42;
 }
+/* footer  */
 .footer .logo-studio {
   color: #f4f4fd;
 }
-
-/* footer  */
+.footer a {
+  display: inline-block;
+}
 .footer {
   color: #f4f4fd;
   background-color: #2e2f42;
